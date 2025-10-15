@@ -181,10 +181,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+-Name Kishor Chavan
+- GitHub:github.com/Kishorchavan45
+- LinkedIn:www.linkedin.com/in/kishor-chavan-88823b38a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email:kishorchavanchavan1@gamil.com
 
 ## 🙏 Acknowledgments
 
